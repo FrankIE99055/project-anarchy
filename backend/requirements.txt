@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+supabase
+python-dotenv
+openai
+requests
+pydantic
+markdown
+xhtml2pdf
